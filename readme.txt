@@ -5,3 +5,5 @@ Git add file to stage.
 
 Now file in branch.
 Creating a new branch is quick and simple.
+
+test stash
